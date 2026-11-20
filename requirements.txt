@@ -1,1 +1,8 @@
-No req yet for py files
+# Libraries for the EDA notebook (eda.ipynb), pinned to the versions it was tested with.
+# Pipeline (Task 2) dependencies are to be added below.
+pandas==3.0.5
+numpy==2.5.3
+matplotlib==3.11.2
+seaborn==0.13.2
+scipy==1.18.1
+ipykernel==7.4.0
